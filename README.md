@@ -3,7 +3,7 @@
 - 🌱 Currently upskilling with ICAN (Skills Level), preparing for the Power BI certification exam, and expanding expertise in advanced analytics, ML, and project management.
 - 💼 Background in banking with certifications in Data Science (GoMyCode) and Agile Project Management (Ingryd Academy).
 - 💞️ Open to collaborating on projects that integrate technology, finance, and management to deliver innovative, data-driven solutions—particularly in industries i.e. fintech, sports, culinary innovation, etc.
-- 📫 How to reach me [danielolabimitan@gmail.com] | [danielayomideh@gmail.com] | [www.linkedin.com/in/daniel-olabimitan-28741a328].
+- 📫 How to reach me [danielolabimitan@gmail.com] | [danielayomideh@gmail.com] | [www.linkedin.com/in/danielolabimitan].
 - ⚡ Fun fact: Football, Food, and Tech: My trifecta of passions.
 
 <!---
